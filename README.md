@@ -1,0 +1,1 @@
+This is a Discord bot which connects to LMStudio.  No docs on how to setup currently.
